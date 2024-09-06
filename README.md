@@ -1,41 +1,45 @@
 # MIS547 Course Overview
 ## Key Materials and Resources for MIS547
 
+You will have to download the powerpoint presentations from the links provided. Click on "Download raw file".
+
 ## Week 1:
 ### Lecture 1: What is the Cloud?
-- pptx:
-- recording:
+- pptx: [Lecture 1](Lectures/Lecture%201.pptx)
+- recording: [YouTube] (https://youtu.be/Ef_k156-iZE)
 ### Lecture 2: What is Computing?
-- pptx:
-- recording: 
-### Reading Week 1: 
+- pptx: [Lecture 2](Lectures/Lecture%202.pptx)
+- recording: [YouTube](https://youtu.be/QHXwPy_eyJI)
+### Reading Week 1:
+- [Readings](Readings/Week1.md)
 ### Business Case Week 1:
 
 ## Week 2:
 ### Lecture 3: Cloud Compute
-- pptx:
-- recording:
+- pptx: [Lecture 3](Lectures/Lecture%203.pptx)
+- recording: [YouTube](https://youtu.be/HrtQPOHJ5AI)
 ### Lecture 4: Containers
-- pptx:
-- recording: \
-### Reading Week 2: \
-### Business Case Week 2:
+- pptx: [Lecture 4](Lectures/Lecture%204.pptx)
+- recording: [Lecture 4](https://youtu.be/MS1ex3uK1wc)
+### Reading Week 2: 
+- [Readings](Readings/Week2.md)
+### Business Case Week 2: 
 
 ## Week 3:
 ### Lecture 5: Database and Storage Day 1
 - pptx:
-- recording: \
-### Lecture 6: Database and Storage Day 2 \
+- recording: 
+### Lecture 6: Database and Storage Day 2 
 - pptx:
 - recording:
 ### Reading Week 3:
 ### Business Case Week 3:
 
 ## Week 4:
-### ### Lecture 7: Network Day 1:
+### Lecture 7: Network Day 1:
 - pptx
 - recording:
-Lecture 8: Network Day 2:
+### Lecture 8: Network Day 2:
 - pptx:
 - recording:
 ### Reading Week 4:
