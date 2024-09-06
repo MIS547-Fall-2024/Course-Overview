@@ -6,7 +6,7 @@ You will have to download the powerpoint presentations from the links provided. 
 ## Week 1:
 ### Lecture 1: What is the Cloud?
 - pptx: [Lecture 1](Lectures/Lecture%201.pptx)
-- recording: [YouTube] (https://youtu.be/Ef_k156-iZE)
+- recording: [YouTube](https://youtu.be/Ef_k156-iZE)
 ### Lecture 2: What is Computing?
 - pptx: [Lecture 2](Lectures/Lecture%202.pptx)
 - recording: [YouTube](https://youtu.be/QHXwPy_eyJI)
@@ -20,7 +20,7 @@ You will have to download the powerpoint presentations from the links provided. 
 - recording: [YouTube](https://youtu.be/HrtQPOHJ5AI)
 ### Lecture 4: Containers
 - pptx: [Lecture 4](Lectures/Lecture%204.pptx)
-- recording: [Lecture 4](https://youtu.be/MS1ex3uK1wc)
+- recording: [YouTube](https://youtu.be/MS1ex3uK1wc)
 ### Reading Week 2: 
 - [Readings](Readings/Week2.md)
 ### Business Case Week 2: 
