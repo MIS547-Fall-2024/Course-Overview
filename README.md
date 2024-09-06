@@ -10,9 +10,10 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 2: What is Computing?
 - pptx: [Lecture 2](Lectures/Lecture%202.pptx)
 - recording: [YouTube](https://youtu.be/QHXwPy_eyJI)
-### Reading Week 1:
-- [Readings](Readings/Week1.md)
-### Business Case Week 1:
+#### [Reading Week 1](Readings/Week1.md)
+#### Business Case Week 1
+#### [Assignment Week 1](https://github.com/MIS547-Fall-2024/Course-Overview/blob/main/Assignments.md#assignment-1-getting-started)
+
 
 ## Week 2:
 ### Lecture 3: Cloud Compute
@@ -21,9 +22,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 4: Containers
 - pptx: [Lecture 4](Lectures/Lecture%204.pptx)
 - recording: [YouTube](https://youtu.be/MS1ex3uK1wc)
-### Reading Week 2: 
-- [Readings](Readings/Week2.md)
-### Business Case Week 2: 
+#### [Reading Week 2](Readings/Week2.md)
+#### Business Case Week 2 
+#### [Assignment Week 2](https://classroom.github.com/a/oF-d3MHd)
 
 ## Week 3:
 ### Lecture 5: Database and Storage Day 1
@@ -32,8 +33,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 6: Database and Storage Day 2 
 - pptx:
 - recording:
-### Reading Week 3:
-### Business Case Week 3:
+#### [Reading Week 3](Readings/Week3.md)
+#### Business Case Week 3
+#### Assignment Week 3
 
 ## Week 4:
 ### Lecture 7: Network Day 1:
@@ -42,16 +44,18 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 8: Network Day 2:
 - pptx:
 - recording:
-### Reading Week 4:
-### Business Case Week 4:
+#### [Reading Week 4](Readings/Week4)
+#### Business Case Week 4
+#### Assignment Week 4
 
 ## Week 5:
 ### Lecture 9: Unit 1 Review
 - pptx:
 - recording:
 ### (No Second Lecture- Exam 1)
-### Reading Week 5
+### [Reading Week 5](Readings/Week5.md)
 ### Business Case Week 5
+### Assignment Week 5
 
 ## Week 6: 
 ### Lecture 10: Introduction to Cloud Native
@@ -60,8 +64,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 11: Cloud Native Computing
 - pptx
 - recording:
-### Reading Week 6:
-### Business Case Week 6:
+### [Reading Week 6](Readings/Week6.md)
+### Business Case Week 6
+### Assignment Week 6
 
 ## Week 7:
 ### Lecture 12: Microservices
@@ -70,8 +75,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 13: Infrastructure as Code
 - pptx:
 - recording:
-### Reading Week 7:
-### Business Case Week 7:
+### [Reading Week 7](Readings/Week7.md)
+### Business Case Week 7
+### Assignment Week 7
 
 ## Week 8:
 ### Lecture 14: Kubernetes Day 1
@@ -80,8 +86,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 15: Kubernetes Day 2
 - pptx:
 - recording:
-### Reading Week 8:
-### Business Case Week 8:
+### [Reading Week 8](Readings/Week8.md)
+### Business Case Week 8
+### Assignment Week 8
 
 ## Week 9:
 ### Lecture 16: CI/CD & DevOps
@@ -90,8 +97,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 17: Observability
 - pptx:
 - recording:
-### Reading Week 9:
-### Business Case Week 9:
+### [Reading Week 9](Readings/Week9.md)
+### Business Case Week 9
+### Assignment Week 9
 
 ## Week 10:
 ### Lecture 18: Cloud Security Day 1
@@ -100,14 +108,16 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 19: Cloud Security Day 2
 - pptx:
 - recording:
-### Reading Week 10:
-### Business Case Week 10:
+### [Reading Week 10](Readings/Week10.md)
+### Business Case Week 10
+### Assignment Week 10
 
 ## Week 11:
 ### Lecture 20: Exam 2 Review
 - pptx:
 - recording:
 ### (No second lecture- exam 2)
+### Assignment Week 11
 
 ## Week 12:
 ### Lecture 21: Cloud Architectures
@@ -116,8 +126,9 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 22: MLOps Day 1
 - pptx:
 - recording:
-### Reading Week 12:
-### Business Case Week 12:
+### [Reading Week 12](Readings/Week12.md)
+### Business Case Week 12
+### Assignment Week 12
 
 ## Week 13:
 ### Lecture 23: MLOps Day 2
@@ -126,13 +137,15 @@ You will have to download the powerpoint presentations from the links provided. 
 ### Lecture 24: More Architectures
 - pptx:
 - recording:
-### Reading Week 13:
+### [Reading Week 13](Readings/Week13.md)
 ### Business Case Week 13:
+### Assignment Week 13
 
 ## Week 14:
 ### Exam 3 Review
 - pptx:
 - recording:
+### Assignment Week 14
 
 
 
