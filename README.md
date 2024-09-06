@@ -2,14 +2,14 @@
 ## Key Materials and Resources for MIS547
 
 ## Week 1:
-Lecture 1: What is the Cloud?
+### Lecture 1: What is the Cloud?
 - pptx:
 - recording:
-Lecture 2: What is Computing?
+### Lecture 2: What is Computing?
 - pptx:
-- recording:
-Reading Week 1: 
-Business Case Week 1:
+- recording: 
+### Reading Week 1: 
+### Business Case Week 1:
 
 ## Week 2:
 Lecture 3: Cloud Compute
@@ -17,15 +17,15 @@ Lecture 3: Cloud Compute
 - recording:
 Lecture 4: Containers
 - pptx:
-- recording:
-Reading Week 2:
+- recording: \
+Reading Week 2: \
 Business Case Week 2:
 
 ## Week 3:
 Lecture 5: Database and Storage Day 1
 - pptx:
-- recording:
-Lecture 6: Database and Storage Day 2
+- recording: \
+Lecture 6: Database and Storage Day 2 \
 - pptx:
 - recording:
 Reading Week 3:
