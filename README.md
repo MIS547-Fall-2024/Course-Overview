@@ -3,6 +3,9 @@
 
 You will have to download the powerpoint presentations from the links provided. Click on "Download raw file".
 
+If you would like a refresher or tutorial on how to use git, I suggest accepting the following assignment and working through it at your leisure:
+[git and GitHub Tutorial](https://classroom.github.com/a/UeKw1xV0)
+
 ## Week 1:
 ### Lecture 1: What is the Cloud?
 - pptx: [Lecture 1](Lectures/Lecture%201.pptx)
