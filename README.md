@@ -38,7 +38,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording:
 #### [Reading Week 3](Readings/Week3.md)
 #### Business Case Week 3
-#### Assignment Week 3
+#### [Assignment Week 3](https://classroom.github.com/a/BpU9Ammj)
 
 ## Week 4:
 ### Lecture 7: Network Day 1:
