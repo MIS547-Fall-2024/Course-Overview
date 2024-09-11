@@ -30,9 +30,9 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 #### [Assignment Week 2](https://classroom.github.com/a/oF-d3MHd)
 
 ## Week 3:
-### Lecture 5: Database and Storage Day 1
-- pptx:
-- recording: 
+### Lecture 5: Cloud Storage
+- pptx: [Lecture 5](Lectures/Lecture%205.pptx)
+- recording: https://youtu.be/YZFD-QALolA
 ### Lecture 6: Database and Storage Day 2 
 - pptx:
 - recording:
