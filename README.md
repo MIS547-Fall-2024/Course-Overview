@@ -34,8 +34,8 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 5](Lectures/Lecture%205.pptx)
 - recording: https://youtu.be/YZFD-QALolA
 ### Lecture 6: Database and Storage Day 2 
-- pptx:
-- recording:
+- pptx: [Lecture 6](Lectures/Lecture%206.pptx)
+- recording: https://youtu.be/60Nso7WIowY
 #### [Reading Week 3](Readings/Week3.md)
 #### Business Case Week 3
 #### [Assignment Week 3](https://classroom.github.com/a/BpU9Ammj)
