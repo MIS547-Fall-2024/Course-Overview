@@ -49,7 +49,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording:
 #### [Reading Week 4](Readings/Week4)
 #### Business Case Week 4
-#### Assignment Week 4
+#### [Assignment Week 4](https://classroom.github.com/a/ZdjOQB0H)
 
 ## Week 5:
 ### Lecture 9: Unit 1 Review
