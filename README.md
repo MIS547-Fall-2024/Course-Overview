@@ -42,14 +42,15 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 
 ## Week 4:
 ### Lecture 7: Network Day 1:
-- pptx
-- recording:
+- pptx: [Lecture 7](Lectures/Lecture%207.pptx)
+- recording: https://youtu.be/ppKiIlPW_sE
 ### Lecture 8: Network Day 2:
 - pptx:
 - recording:
 #### [Reading Week 4](Readings/Week4)
 #### Business Case Week 4
 #### [Assignment Week 4](https://classroom.github.com/a/ZdjOQB0H)
+#### [Supplemental Materials](Supplemental/README.md)
 
 ## Week 5:
 ### Lecture 9: Unit 1 Review
