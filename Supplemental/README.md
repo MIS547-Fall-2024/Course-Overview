@@ -1,5 +1,10 @@
 Supplemental materials can be found below:
 
+## Creating VMs in AWS, GCP, and Azure:
+1. [Creating a VM (Instance) in Azure](https://youtu.be/YgSVTcjelxQ)
+2. [Creating a VM (EC2 Instance) in AWS](https://youtu.be/LMQJ3Plwg_E)
+3. [Creating a VM (Compute Instance) in GCP](https://youtu.be/469xKzNFzsY)
+
 ## Linux:
 
 ## Networking:

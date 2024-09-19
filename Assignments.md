@@ -10,7 +10,7 @@ GitHub Classroom: https://classroom.github.com/a/oF-d3MHd
 GitHub Classroom: https://classroom.github.com/a/BpU9Ammj
 
 ## Assignment 4: Networking
-Link:
+GitHub Classroom: https://classroom.github.com/a/ZdjOQB0H 
 
 ## Assignment 5: Unit 1 Practice Exam
 Link:
