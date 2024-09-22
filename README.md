@@ -56,9 +56,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx:
 - recording:
 ### (No Second Lecture- Exam 1)
-### [Reading Week 5](Readings/Week5.md)
-### Business Case Week 5
-### Assignment Week 5
+### Assignment Week 5 (Practice Exam)
 
 ## Week 6: 
 ### Lecture 10: Introduction to Cloud Native

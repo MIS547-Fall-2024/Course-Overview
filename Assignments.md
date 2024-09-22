@@ -13,7 +13,7 @@ GitHub Classroom: https://classroom.github.com/a/BpU9Ammj
 GitHub Classroom: https://classroom.github.com/a/ZdjOQB0H 
 
 ## Assignment 5: Unit 1 Practice Exam
-Link:
+GitHub Classroom: https://classroom.github.com/a/6i6QWw8W
 
 ## Assignment 6: Cloud Native
 Link:
