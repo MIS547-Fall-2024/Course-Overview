@@ -53,7 +53,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 
 ## Week 5:
 ### Lecture 9: Unit 1 Review
-- pptx:
+- pptx: [Lecture 9: Exam 1 Review](Lectures/Exam%201%20Review.pptx)
 - recording:
 ### (No Second Lecture- Exam 1)
 ### Assignment Week 5 (Practice Exam)
