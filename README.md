@@ -14,7 +14,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 2](Lectures/Lecture%202.pptx)
 - recording: [YouTube](https://youtu.be/QHXwPy_eyJI)
 #### [Reading Week 1](Readings/Week1.md)
-#### Business Case Week 1
+#### [Business Case Week 1](BusinessCases/Week1.md)
 #### [Assignment Week 1](https://github.com/MIS547-Fall-2024/Course-Overview/blob/main/Assignments.md#assignment-1-getting-started)
 
 
@@ -26,7 +26,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 4](Lectures/Lecture%204.pptx)
 - recording: [YouTube](https://youtu.be/MS1ex3uK1wc)
 #### [Reading Week 2](Readings/Week2.md)
-#### Business Case Week 2 
+#### [Business Case Week 2](BusinessCases/Week2.md) 
 #### [Assignment Week 2](https://classroom.github.com/a/oF-d3MHd)
 
 ## Week 3:
@@ -37,7 +37,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 6](Lectures/Lecture%206.pptx)
 - recording: https://youtu.be/60Nso7WIowY
 #### [Reading Week 3](Readings/Week3.md)
-#### Business Case Week 3
+#### [Business Case Week 3](BusinessCases/Week3.md)
 #### [Assignment Week 3](https://classroom.github.com/a/BpU9Ammj)
 
 ## Week 4:
@@ -60,13 +60,13 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 
 ## Week 6: 
 ### Lecture 10: Introduction to Cloud Native
-- pptx
-- recording:
+- pptx: [Lecture 10](Lectures/Lecture%2010.pptx)
+- recording: https://youtu.be/wlPUvsMECPs
 ### Lecture 11: Cloud Native Computing
 - pptx
 - recording:
 ### [Reading Week 6](Readings/Week6.md)
-### Business Case Week 6
+### [Business Case Week 6](BuinessCases/Week%206)
 ### Assignment Week 6
 
 ## Week 7:
