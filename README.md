@@ -63,11 +63,11 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 10](Lectures/Lecture%2010.pptx)
 - recording: https://youtu.be/wlPUvsMECPs
 ### Lecture 11: Cloud Native Computing
-- pptx
-- recording:
+- pptx: [Lecture 11](Lectures/Lecture%2011.pptx)
+- recording: https://youtu.be/Y7JzYLmn-3M
 ### [Reading Week 6](Readings/Week6.md)
 ### [Business Case Week 6](BuinessCases/Week%206)
-### Assignment Week 6
+### [Assignment Week 6](https://classroom.github.com/a/eOWh3zgy)
 
 ## Week 7:
 ### Lecture 12: Microservices

@@ -16,7 +16,7 @@ GitHub Classroom: https://classroom.github.com/a/ZdjOQB0H
 GitHub Classroom: https://classroom.github.com/a/6i6QWw8W
 
 ## Assignment 6: Cloud Native
-Link:
+GitHub Classroom: https://classroom.github.com/a/eOWh3zgy 
 
 ## Assignment 7: Microservices, IaC
 Link:
