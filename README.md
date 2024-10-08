@@ -67,18 +67,19 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording: https://youtu.be/Y7JzYLmn-3M
 ### [Reading Week 6](Readings/Week6.md)
 ### [Business Case Week 6](BuinessCases/Week%206)
-### [Assignment Week 6](https://classroom.github.com/a/eOWh3zgy)
+### 
 
 ## Week 7:
 ### Lecture 12: Microservices
-- pptx:
+- pptx: [Lecture 12](Lectures/Lecture%2012.pptx)
 - recording:
 ### Lecture 13: Infrastructure as Code
 - pptx:
 - recording:
 ### [Reading Week 7](Readings/Week7.md)
 ### Business Case Week 7
-### Assignment Week 7
+### [Assignment Week 7](https://classroom.github.com/a/eOWh3zgy)
+### [Supplemental Materials- Refactoring a Monolith into Microservices](https://youtu.be/fBhOMs1zd-A)
 
 ## Week 8:
 ### Lecture 14: Kubernetes Day 1
