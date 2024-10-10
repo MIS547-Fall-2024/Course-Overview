@@ -74,7 +74,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx: [Lecture 12](Lectures/Lecture%2012.pptx)
 - recording:
 ### Lecture 13: Infrastructure as Code
-- pptx:
+- pptx: [Lecture 13](Lectures/Lecture%2013.pptx)
 - recording:
 ### [Reading Week 7](Readings/Week7.md)
 ### Business Case Week 7
