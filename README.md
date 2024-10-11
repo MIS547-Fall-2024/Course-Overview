@@ -72,10 +72,10 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 ## Week 7:
 ### Lecture 12: Microservices
 - pptx: [Lecture 12](Lectures/Lecture%2012.pptx)
-- recording:
+- recording: https://youtu.be/C4vwo-jAugU
 ### Lecture 13: Infrastructure as Code
 - pptx: [Lecture 13](Lectures/Lecture%2013.pptx)
-- recording:
+- recording: https://youtu.be/XcltFgiDCEA
 ### [Reading Week 7](Readings/Week7.md)
 ### Business Case Week 7
 ### [Assignment Week 7](https://classroom.github.com/a/eOWh3zgy)
