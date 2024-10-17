@@ -83,10 +83,10 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 
 ## Week 8:
 ### Lecture 14: Kubernetes Day 1
-- pptx:
-- recording:
+- pptx:[Lecture 14](Lectures/Lecture%2014.pptx)
+- recording:https://youtu.be/uGVlCLQ-8vE
 ### Lecture 15: Kubernetes Day 2
-- pptx:
+- pptx:[Lecture 15](Lectures/Lecture%2015.pptx)
 - recording:
 ### [Reading Week 8](Readings/Week8.md)
 ### Business Case Week 8
