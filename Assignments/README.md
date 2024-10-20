@@ -18,26 +18,23 @@ GitHub Classroom: https://classroom.github.com/a/6i6QWw8W
 ## Assignment 6: Cloud Native
 GitHub Classroom: https://classroom.github.com/a/eOWh3zgy 
 
-## Assignment 7: Microservices, IaC
+## Assignment 7: Docker Practice, GitHub Actions, Kubernetes
+GitHub Classroom: https://classroom.github.com/a/Uv1DlvM4 
+
+## Assignment 8: Security
 Link:
 
-## Assignment 8: Kubernetes
+## Assignment 9: Unit 2 Practice Exam
 Link:
 
-## Assignment 9: CI/CD & DevOps
+## Assignment 10: IaC, Serverless
 Link:
 
-## Assignment 10: Security
+## Assignment 11: MLOps
 Link:
 
-## Assignment 11: Unit 2 Practice Exam
+## Assignment 12: Unit 3 Practice Exam
 Link:
 
-## Assignment 12: MLOps
-Link:
-
-## Assignment 13: Business Case Writing (for website blog)
-Link:
-
-## Assignment 14: Unit 3 Practice Exam
+## Assignment 14: 
 Link:

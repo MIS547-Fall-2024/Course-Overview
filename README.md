@@ -87,10 +87,9 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording:https://youtu.be/uGVlCLQ-8vE
 ### Lecture 15: Kubernetes Day 2
 - pptx:[Lecture 15](Lectures/Lecture%2015.pptx)
-- recording:
+- recording:https://youtu.be/ZzjEmV_Gnr8 
 ### [Reading Week 8](Readings/Week8.md)
-### Business Case Week 8
-### Assignment Week 8
+### [Assignment Week 8](https://classroom.github.com/a/Uv1DlvM4)
 
 ## Week 9:
 ### Lecture 16: CI/CD & DevOps
@@ -101,7 +100,6 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording:
 ### [Reading Week 9](Readings/Week9.md)
 ### Business Case Week 9
-### Assignment Week 9
 
 ## Week 10:
 ### Lecture 18: Cloud Security Day 1
@@ -119,7 +117,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx:
 - recording:
 ### (No second lecture- exam 2)
-### Assignment Week 11
+### Unit 2 Exam Review
 
 ## Week 12:
 ### Lecture 21: Cloud Architectures
@@ -147,7 +145,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 ### Exam 3 Review
 - pptx:
 - recording:
-### Assignment Week 14
+### Unit 3 Exam Review
 
 
 
