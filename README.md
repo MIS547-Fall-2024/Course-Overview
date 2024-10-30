@@ -107,7 +107,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - pptx:
 - recording:
 ### [Reading Week 10](Readings/Week10.md)
-### Business Case Week 10
+### [Supplemental Materials](Supplemental/README.md)
 ### Assignment Week 10
 
 ## Week 11:

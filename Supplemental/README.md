@@ -20,3 +20,14 @@ Supplemental materials can be found below:
 ## Microservices
 1. Interview with Adam Shamblin on migrating monoliths to microservices
 - [recording](https://youtu.be/fBhOMs1zd-A)
+
+## Security
+### Hands-on Cloud CTFs:
+
+1. http://flaws.cloud/
+2. http://flaws2.cloud/
+3. https://eksclustergames.com/
+
+### Cloud Hacking Guides
+
+1. https://hackingthe.cloud/
