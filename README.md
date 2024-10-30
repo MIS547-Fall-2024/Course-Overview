@@ -92,19 +92,17 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 ### [Assignment Week 8](https://classroom.github.com/a/Uv1DlvM4)
 
 ## Week 9:
-### Lecture 16: CI/CD & DevOps
-- pptx:
-- recording:
+### Lecture 16: Code Walkthrough
+- recording:https://youtu.be/l0XuyN_mnyA
 ### Lecture 17: Observability
-- pptx:
-- recording:
+- pptx: [Lecture 17](Lectures/Lecture%2017.pptx)
+- recording:https://youtu.be/XqCtheZ4usw
 ### [Reading Week 9](Readings/Week9.md)
-### Business Case Week 9
 
 ## Week 10:
 ### Lecture 18: Cloud Security Day 1
-- pptx:
-- recording:
+- pptx: [Lecture 18](Lectures/Lecture%2018.pptx)
+- recording: https://youtu.be/omKwXozi_xg 
 ### Lecture 19: Cloud Security Day 2
 - pptx:
 - recording:
