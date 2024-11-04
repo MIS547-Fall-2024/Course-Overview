@@ -22,7 +22,7 @@ GitHub Classroom: https://classroom.github.com/a/eOWh3zgy
 GitHub Classroom: https://classroom.github.com/a/Uv1DlvM4 
 
 ## Assignment 8: Security
-Link:
+Github Classroom: https://classroom.github.com/a/CnKC29wn
 
 ## Assignment 9: Unit 2 Practice Exam
 Link:
@@ -34,7 +34,4 @@ Link:
 Link:
 
 ## Assignment 12: Unit 3 Practice Exam
-Link:
-
-## Assignment 14: 
 Link:

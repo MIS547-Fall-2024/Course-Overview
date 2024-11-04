@@ -108,7 +108,7 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 - recording:
 ### [Reading Week 10](Readings/Week10.md)
 ### [Supplemental Materials](Supplemental/README.md)
-### Assignment Week 10
+### [Assignment Week 10](https://classroom.github.com/a/CnKC29wn)
 
 ## Week 11:
 ### Lecture 20: Exam 2 Review
