@@ -112,21 +112,17 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 
 ## Week 11:
 ### Lecture 20: Exam 2 Review
-- pptx:
-- recording:
 ### (No second lecture- exam 2)
 ### Unit 2 Exam Review
 
 ## Week 12:
-### Lecture 21: Cloud Architectures
-- pptx:
-- recording:
-### Lecture 22: MLOps Day 1
-- pptx:
-- recording:
+### Lecture 21: MLOps Day 1
+- pptx: [Lecture 20](Lectures/Lecture%2020.pptx)
+- recording: [YouTube](https://www.youtube.com/watch?v=2frIZfuwf5s)
+### Lecture 22: MLOps Day 2
+- pptx: [Lecture 21](Lectures/Lecture%2021.pptx)
+- recording: [YouTube](https://www.youtube.com/watch?v=ipXm_LFOvg0)
 ### [Reading Week 12](Readings/Week12.md)
-### Business Case Week 12
-### Assignment Week 12
 
 ## Week 13:
 ### Lecture 23: MLOps Day 2
