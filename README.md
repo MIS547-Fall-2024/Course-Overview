@@ -111,35 +111,41 @@ If you would like a refresher or tutorial on how to use git, I suggest accepting
 ### [Assignment Week 10](https://classroom.github.com/a/CnKC29wn)
 
 ## Week 11:
-### Lecture 20: Exam 2 Review
+### Exam 2 Review
 ### (No second lecture- exam 2)
 ### Unit 2 Exam Review
 
 ## Week 12:
-### Lecture 21: MLOps Day 1
+### Lecture 20: MLOps Day 1
 - pptx: [Lecture 20](Lectures/Lecture%2020.pptx)
 - recording: [YouTube](https://www.youtube.com/watch?v=2frIZfuwf5s)
-### Lecture 22: MLOps Day 2
+### Lecture 21: MLOps Day 2
 - pptx: [Lecture 21](Lectures/Lecture%2021.pptx)
 - recording: [YouTube](https://www.youtube.com/watch?v=ipXm_LFOvg0)
 ### [Reading Week 12](Readings/Week12.md)
 
 ## Week 13:
-### Lecture 23: MLOps Day 2
-- pptx:
-- recording:
-### Lecture 24: More Architectures
-- pptx:
-- recording:
+### Lecture 22: LLMs
+- pptx: [Lecture 22](Lectures/Lecture%2022.pptx)
+- recording:[YouTube](https://youtu.be/qddm4k6Gxxw)
+### Lecture 23: LLMOps
+- pptx: [Lecture 23](Lectures/Lecture%2023.pptx)
+- recording:[YouTube](https://youtu.be/EpSCpvqFskY)
 ### [Reading Week 13](Readings/Week13.md)
-### Business Case Week 13:
 ### Assignment Week 13
+### [Supplemental Materials](Supplemental/README.md)
 
 ## Week 14:
 ### Exam 3 Review
-- pptx:
-- recording:
+### Thanksgiving
 ### Unit 3 Exam Review
+
+## Week 15:
+### Exam 3
+### Student Presentations Day 1
+
+## Week 16:
+### Student Presentations Day 2
 
 
 

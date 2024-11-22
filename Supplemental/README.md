@@ -31,3 +31,20 @@ Supplemental materials can be found below:
 ### Cloud Hacking Guides
 
 1. https://hackingthe.cloud/
+
+## MLOps and LLMOps
+
+- Awesome LLMOps
+    - [GitHub](https://github.com/tensorchord/Awesome-LLMOps)
+- GenAI Microservices
+    - [List of microservice code from OPEA](https://opea-project.github.io/latest/microservices/index.html)
+- OpenSearch
+    - [OpenSearch](https://opensearch.org/)
+- Neptune AI LLMOps Learning Hub
+    - [neptune.ai](https://neptune.ai/llmops-learning-hub)
+- Neptune AI experiment tracking for academic research
+    - [neptune.ai]https://neptune.ai/research
+- DigitalOcean/ Paperspace: Building Local AI Agents: A Guide to LAngGraph, AI Agents, and Ollama
+    - [DigitalOcean Blog](https://blog.paperspace.com/building-local-ai-agents-a-guide-to-langgraph-ai-agents-and-ollama/)
+- DigitalOcean/ Paperspace: Choosing Between LlamaIndex and LangChain: Finding the Right Tool for your AI Application
+    - [DigitalOcean Blog](https://blog.paperspace.com/llamaindex-vs-langchain-comparison-for-deep-learning/)
